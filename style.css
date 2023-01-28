@@ -7,3 +7,24 @@ body{
     border: 5px solid black;
 }
 
+.item{
+    border: 3px solid black;
+    padding: 20px 100px;
+}
+
+.foodName{
+    font-size: 32px;
+    color: red;
+}
+
+.price{
+    font-size: 28px;
+    color: green
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
