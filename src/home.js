@@ -8,7 +8,7 @@ function createHome() {
     picture.src = "./images/mcdonald.jpeg";
     picture.alt = "wackdonald";
     home.appendChild(picture);
-    home.appendChild(createParagraph(" This restaurant is so amazing. You won't regret coming here!"))
+    home.appendChild(createParagraph("This restaurant is so amazing. You won't regret coming here!"))
 
     return home;
 }
@@ -26,4 +26,4 @@ function addHome() {
 
 }
 
-export default addHome
+export default addHome;
