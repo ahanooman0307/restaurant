@@ -5,7 +5,7 @@ function createMenu(){
     menu.appendChild(createItem("Fries", "$0.47", "These delicious fries made with our secret ingredient will have you coming back for more", "./images/fries.jpeg"));
     menu.appendChild(createItem("Burger", "FREE", "This burger was aged like wine so that you can enjoy the richness of time", "./images/burger.jpeg"))
     menu.appendChild(createItem("Chicken Wings", "$8.03", "These chicken wings were specially cut by our chefs to make for a more enjoyable meal", "./images/chicken.jpeg"))
-    menu.appendChild(createItem("Milkshake", "$200.00", "This award winning milkshake was made with a special but secret ingredient that gives it it's creamy flavor", "./images/milkshake.jpeg"))
+    menu.appendChild(createItem("Milkshake", "$200.00", "This award winning milkshake was made with a special but secret ingredient that gives it it's rich creamy flavor", "./images/milkshake.jpeg"))
     return menu;
 }
 
