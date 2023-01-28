@@ -1,3 +1,3 @@
+import addHome from "./home";
 
-
-console.log(7);
+addHome();

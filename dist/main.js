@@ -1,1 +1,1 @@
-console.log(7);
+(()=>{"use strict";function e(e){const t=document.createElement("div");return t.textContent=e,t}document.getElementById("content").appendChild(function(){const t=document.createElement("div");t.classList.add("home"),t.appendChild(e("Welcome to Mcdonalds!"));const n=document.createElement("img");return n.src="./images/mcdonald.jpeg",n.alt="wackdonald",t.appendChild(n),t.appendChild(e(" This restaurant is so amazing. You won't regret coming here!")),t}())})();
